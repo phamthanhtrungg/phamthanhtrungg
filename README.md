@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**phamthanhtrungg/phamthanhtrungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <em> 🌎 I'm currently in Vietnam </em> 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Favorites Languages
+
+<p float="left">
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="100" />
+  <img src="https://cdn.svgporn.com/logos/python.svg" width="100" style="margin-left:40px;"/> 
+  <img src="https://cdn.svgporn.com/logos/dotnet.svg" width="100" style="margin-left:40px;"/> 
+  
+</p>
+
+
