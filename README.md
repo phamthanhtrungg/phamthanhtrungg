@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- <em> vietnamese coder 🇻🇳</em> 
+- <em> Vietnamese coder 🇻🇳</em> 
